@@ -3,7 +3,7 @@ import os
 
 setup(
     name         = 'cheat',
-    version      = '2.1.26',
+    version      = '2.1.25',
     author       = 'Chris Lane',
     author_email = 'chris@chris-allen-lane.com',
     license      = 'GPL3',
@@ -15,7 +15,7 @@ setup(
     packages     = [
         'cheat',
         'cheat.cheatsheets',
-        'cheat.test',
+        'cheat.tests',
     ],
     package_data = {
         'cheat.cheatsheets': [f for f in os.listdir('cheat/cheatsheets') if '.' not in f]
