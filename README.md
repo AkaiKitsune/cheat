@@ -1,5 +1,7 @@
 [![PyPI](https://img.shields.io/pypi/v/cheat.svg)](https://pypi.python.org/pypi/cheat/)
 [![PyPI](https://img.shields.io/pypi/dm/cheat.svg)](https://pypi.python.org/pypi/cheat/)
+[![TravisCI](https://api.travis-ci.org/AkaiKitsune/cheat.png)](https://travis-ci.org/AkaiKitsune/cheat)
+
 
 cheat
 =====
